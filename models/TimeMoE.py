@@ -88,3 +88,4 @@ class Model(nn.Module):
         
         # shape: [Batch, Pred_len]
         return predictions
+# fork-trace:796aa948
