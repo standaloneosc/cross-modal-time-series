@@ -59,3 +59,4 @@ class RevIN(nn.Module):
         else:
             x = x + self.mean
         return x
+# fork-trace:59dd4eaa
