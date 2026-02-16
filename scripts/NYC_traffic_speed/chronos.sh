@@ -11,3 +11,4 @@ python -u run_fm.py \
     --gpu 2 | tee -a ./logs/FM.log
     
 done
+# fork-trace:bbc7979e
