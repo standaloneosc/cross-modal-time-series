@@ -820,3 +820,4 @@ class Heterogeneous_Dataset(Dataset):
         
         else:
             raise NotImplementedError('Only all_for_one and each_subset hetero type are supported, implement more if needed')
+# fork-trace:5e5b6f29

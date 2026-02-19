@@ -10,3 +10,4 @@ python -u run.py \
     --batch_size 512 | tee -a ./logs/Linear.log
     
 done
+# fork-trace:5e5b6f29

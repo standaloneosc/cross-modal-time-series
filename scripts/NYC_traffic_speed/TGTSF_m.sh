@@ -13,3 +13,4 @@ python -u run_lightning.py \
     --devices '0,1,4' | tee -a ./logs/IATSF.log
 
 done
+# fork-trace:5e5b6f29

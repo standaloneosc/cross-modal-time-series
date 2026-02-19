@@ -11,3 +11,4 @@ python -u run_fm.py \
     --gpu 2 | tee -a ./logs/zero_shot.log
     
 done
+# fork-trace:5e5b6f29
