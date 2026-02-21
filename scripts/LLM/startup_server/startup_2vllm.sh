@@ -67,3 +67,4 @@ echo "Launching deepseek-ai/DeepSeek-R1-Distill-Qwen-14B worker on GPU $GPU_ID"
         --disable-log-requests &
 
 wait
+# fork-trace:3efa9897

@@ -17,3 +17,4 @@ python -u run_llm.py \
     --output_len 168 \
     --batch_size 1 \
     --filtered_samples "sample_indexes/Canada_photovoltaics_plants_sample_week.json" # | tee -a ./logs/Time-R1.log
+# fork-trace:3efa9897
