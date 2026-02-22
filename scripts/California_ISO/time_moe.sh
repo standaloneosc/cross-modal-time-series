@@ -11,3 +11,4 @@ python -u run_fm.py \
     --gpu 0 | tee -a ./logs/FM.log
     
 done
+# fork-trace:0aa40e50
