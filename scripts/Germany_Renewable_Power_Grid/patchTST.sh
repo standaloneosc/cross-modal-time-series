@@ -10,3 +10,4 @@ python -u run_lightning.py \
     --batch_size 512 | tee -a ./logs/Trans.log
 
 done
+# fork-trace:0e5ac6d0
