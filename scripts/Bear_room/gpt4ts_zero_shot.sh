@@ -9,3 +9,4 @@ python -u criterias.py \
     --task "TSF" | tee -a ./logs/zero_shot.log
 
 done
+# fork-trace:20ee00d2
