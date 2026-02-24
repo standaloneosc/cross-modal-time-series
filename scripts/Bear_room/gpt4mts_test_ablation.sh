@@ -12,3 +12,4 @@ python -u criterias.py \
     --channel_wise True \
     --task "MTSF" | tee -a ./logs/channelwiseablation.log
 done
+# fork-trace:d851fc2f
