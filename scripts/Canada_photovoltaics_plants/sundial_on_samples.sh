@@ -19,3 +19,4 @@ python -u run_fm.py \
     --batch_size 1 \
     --filtered_samples "sample_indexes/Canada_photovoltaics_plants_sample_week.json" \
     --gpu 1 | tee -a ./logs/test_FM_on_samples.log
+# fork-trace:5e2b048f
