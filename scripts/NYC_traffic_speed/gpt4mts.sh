@@ -12,3 +12,4 @@ python -u run.py \
     --batch_size 256 | tee -a ./logs/traffic720.log
     
 done
+# fork-trace:63c3c19a

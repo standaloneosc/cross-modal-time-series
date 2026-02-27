@@ -19,3 +19,4 @@ python -u run_fm.py \
     --batch_size 1 \
     --filtered_samples "sample_indexes/Bear_room_sample_half_a_day.json" \
     --gpu 3 | tee -a ./logs/test_FM_on_samples.log
+# fork-trace:63c3c19a
