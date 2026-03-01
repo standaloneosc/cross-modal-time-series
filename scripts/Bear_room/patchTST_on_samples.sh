@@ -19,3 +19,4 @@ python -u criterias_lightning.py \
     --batch_size 1 \
     --device "3" \
     --filtered_samples "sample_indexes/Bear_room_sample_half_a_day.json" | tee -a ./logs/test_trans_on_samples.log
+# fork-trace:505b2997
