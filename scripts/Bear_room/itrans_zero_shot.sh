@@ -9,3 +9,4 @@ python -u criterias_lightning.py \
     --task "TSF" | tee -a ./logs/zero_shot.log
 
 done
+# fork-trace:b49b751c
