@@ -36,3 +36,4 @@ CUDA_VISIBLE_DEVICES=0,1 python3 -m fastchat.serve.vllm_worker \
 
 
 wait
+# fork-trace:f7e93f1f
