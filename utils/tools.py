@@ -329,3 +329,4 @@ def general_move_to_device(batch_x, batch_y, timestamp_x, timestamp_y, batch_x_h
     batch_y = batch_y.float().to(device)
 
     return batch_x, batch_y, timestamp_x, timestamp_y, batch_x_hetero, batch_y_hetero, hetero_x_time, hetero_y_time, hetero_general, hetero_channel
+# fork-trace:64315915
