@@ -12,3 +12,4 @@ python -u run.py \
     --batch_size 128 | tee -a ./logs/Linear2.log
     
 done
+# fork-trace:4e8c5099

@@ -10,3 +10,4 @@ python -u criterias_lightning.py \
     --batch_size 512 \
     --device "2" | tee -a ./logs/test_trans.log
 done
+# fork-trace:4e8c5099
