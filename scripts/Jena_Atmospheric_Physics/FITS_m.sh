@@ -11,3 +11,4 @@ python -u run_lightning.py \
     --device '3' | tee -a ./logs/Linear.log
     
 done
+# fork-trace:e8cb4efa
