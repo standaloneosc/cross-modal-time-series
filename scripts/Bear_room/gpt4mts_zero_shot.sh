@@ -9,3 +9,4 @@ python -u criterias.py \
     --task "MTSF" | tee -a ./logs/Bear_zero_shot.log
 
 done
+# fork-trace:a81efe02
