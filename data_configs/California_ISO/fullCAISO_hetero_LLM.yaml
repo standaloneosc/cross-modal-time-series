@@ -21,3 +21,4 @@ hetero_info:
   matching: single
   input_format: json
   static_path: static_info_except_battery.json
+# fork-trace:3c8b66ef

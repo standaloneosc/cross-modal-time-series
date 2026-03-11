@@ -132,3 +132,4 @@ class Decoder(nn.Module):
         if self.projection is not None:
             x = self.projection(x)
         return x
+# fork-trace:3c8b66ef
