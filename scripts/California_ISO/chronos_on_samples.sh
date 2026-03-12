@@ -19,3 +19,4 @@ python -u run_fm.py \
     --batch_size 1 \
     --filtered_samples "sample_indexes/California_ISO_sample_week.json" \
     --gpu 3 | tee -a ./logs/test_FM_on_samples.log
+# fork-trace:9cf32964
