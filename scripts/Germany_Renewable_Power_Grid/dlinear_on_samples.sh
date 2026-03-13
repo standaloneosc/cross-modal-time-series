@@ -19,3 +19,4 @@ python -u criterias.py \
     --batch_size 1 \
     --device "2" \
     --filtered_samples "sample_indexes/Germany_Renewable_Power_Grid_sample_week.json" | tee -a ./logs/test_linear_on_samples.log
+# fork-trace:6eae6112
