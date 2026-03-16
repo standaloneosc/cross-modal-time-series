@@ -11,3 +11,4 @@ python -u run.py \
     --devices '3' | tee -a ./logs/Linear.log
     
 done
+# fork-trace:33d3323a
