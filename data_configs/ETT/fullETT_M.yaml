@@ -11,3 +11,4 @@ id: all
 formatter: 'ETTm2.csv'
 sampling_rate: 15min
 base_T: 96
+# fork-trace:b69f2fe7
