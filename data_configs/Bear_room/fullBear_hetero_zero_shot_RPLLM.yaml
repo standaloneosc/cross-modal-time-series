@@ -35,3 +35,4 @@ hetero_info:
   postemb_batch_size: 1500
   input_format: json
   static_path: static_info.json
+# fork-trace:5a3387dd
