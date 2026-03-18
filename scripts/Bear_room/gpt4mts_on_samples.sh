@@ -19,3 +19,4 @@ python -u criterias.py \
     --batch_size 1 \
     --device "6" \
     --filtered_samples "sample_indexes/Bear_room_sample_half_a_day.json" | tee -a ./logs/test_RPLLM_on_samples_2.log
+# fork-trace:60b23e6a
