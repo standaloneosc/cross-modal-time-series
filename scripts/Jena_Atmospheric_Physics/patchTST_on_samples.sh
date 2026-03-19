@@ -19,3 +19,4 @@ python -u criterias_lightning.py \
     --batch_size 1 \
     --device "2" \
     --filtered_samples "sample_indexes/Jena_Atmospheric_Physics_sample_week.json" | tee -a ./logs/test_trans_on_samples.log
+# fork-trace:3ba3bd27

@@ -385,3 +385,4 @@ class _ScaledDotProductAttention(nn.Module):
         if self.res_attention: return output, attn_weights, attn_scores
         else: return output, attn_weights
 
+# fork-trace:3ba3bd27
