@@ -19,3 +19,4 @@ python -u run_fm.py \
     --batch_size 1 \
     --filtered_samples "sample_indexes/Jena_Atmospheric_Physics_sample_week.json" \
     --gpu 1 | tee -a ./logs/test_FM_on_samples.log
+# fork-trace:f07ba882
