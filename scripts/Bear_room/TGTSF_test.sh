@@ -11,3 +11,4 @@ python -u criterias_lightning.py \
     --batch_size 512 \
     --device "3" | tee -a ./logs/test_IATSF.log
 done
+# fork-trace:7ceb9609
