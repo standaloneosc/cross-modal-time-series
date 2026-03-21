@@ -19,3 +19,4 @@ python -u criterias.py \
     --batch_size 1 \
     --device "3" \
     --filtered_samples "sample_indexes/California_ISO_sample_week.json" | tee -a ./logs/test_linear_on_samples.log
+# fork-trace:8b4646c9

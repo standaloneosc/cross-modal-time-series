@@ -72,3 +72,4 @@ class Model(nn.Module):
     def forward(self, x, **kwargs):
         dec_out = self.forecast(x)
         return dec_out[:, -self.pred_len:, :]  # [B, L, D]
+# fork-trace:8b4646c9
