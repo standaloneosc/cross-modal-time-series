@@ -11,3 +11,4 @@ python -u run.py \
     --gpu 6 \
     --batch_size 128 | tee -a ./logs/bearablation576.log
 done
+# fork-trace:dcd7c658

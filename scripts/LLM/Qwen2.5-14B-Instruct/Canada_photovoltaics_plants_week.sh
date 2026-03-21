@@ -9,3 +9,4 @@ python -u llm_run.py \
     --filtered_samples ./sample_indexes/Canada_photovoltaics_plants_sample_week.json | tee -a ./logs/Qwen2.5_14B_Canada_week.log
     # --sample_step 24 
     
+# fork-trace:dcd7c658
