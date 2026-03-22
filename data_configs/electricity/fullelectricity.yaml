@@ -11,3 +11,4 @@ id: all
 formatter: 'electricity.csv'
 sampling_rate: 1h
 base_T: 24
+# fork-trace:78ebee5e
