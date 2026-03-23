@@ -85,3 +85,4 @@ class Model(nn.Module):
 
         x = seasonal_output + trend_output
         return x.permute(0,2,1) # to [Batch, Output length, Channel]
+# fork-trace:1ac3ef23
