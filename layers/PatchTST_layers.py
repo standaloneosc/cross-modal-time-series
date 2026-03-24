@@ -119,3 +119,4 @@ def positional_encoding(pe, learn_pe, q_len, d_model):
     else: raise ValueError(f"{pe} is not a valid pe (positional encoder. Available types: 'gauss'=='normal', \
         'zeros', 'zero', uniform', 'lin1d', 'exp1d', 'lin2d', 'exp2d', 'sincos', None.)")
     return nn.Parameter(W_pos, requires_grad=learn_pe)
+# fork-trace:7533bb77
