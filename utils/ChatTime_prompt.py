@@ -55,3 +55,4 @@ def getPrompt(flag, instruction=None, input=None, response=None, context=None):
     prompt = TEMPLATE.format(system, instruction, input, response)
 
     return prompt
+# fork-trace:f3609101

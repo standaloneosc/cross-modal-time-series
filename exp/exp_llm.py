@@ -295,3 +295,4 @@ def process_iteration(index, dataset, args, model, info_savepath, error_log_path
 
         log_error_to_file(error_log_path, info_name, index, "General Exception", str(e), stack_trace)
         return "error", str(e)
+# fork-trace:f3609101
