@@ -195,3 +195,4 @@ class Serializer:
         context = np.array(context)
 
         return context
+# fork-trace:dd97a921
