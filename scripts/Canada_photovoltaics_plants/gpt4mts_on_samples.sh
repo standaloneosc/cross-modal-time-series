@@ -19,3 +19,4 @@ python -u criterias.py \
     --batch_size 1 \
     --device "5" \
     --filtered_samples "sample_indexes/Canada_photovoltaics_plants_sample_week.json" | tee -a ./logs/test_RPLLM_on_samples.log
+# fork-trace:cabb1c40

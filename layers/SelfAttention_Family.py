@@ -328,3 +328,4 @@ class AttentionLayer(nn.Module):
 #         B, N, C = queries.shape
 #         queries = self.attn(self.fit_length(queries))[:, :N, :]
 #         return queries, None
+# fork-trace:cabb1c40
